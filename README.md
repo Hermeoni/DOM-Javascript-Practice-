@@ -1,0 +1,1 @@
+The Odin Project's introduction to using Javascript to manipulate the DOM and initial use of event listeners on buttons.
